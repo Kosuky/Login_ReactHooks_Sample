@@ -86,7 +86,7 @@ function App() {
           <div className="formField">
             <label>パスワード</label>
             <input
-              type="text"
+              type="password"
               name="password"
               placeholder="パスワード"
               value={formValues.password}
